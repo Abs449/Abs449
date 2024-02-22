@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 
-<h1 align="center">Hi 👋, I'm Jayabrata Basu</h1>
+<h1 align="center">Hi 👋, I'm Abhiram Chintalapati</h1>
 
 
 ## 🌐 Socials:
