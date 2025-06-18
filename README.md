@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhiram Chintalapati
-- 👀 I’m interested in Web Development, Cloud Computing and all things Computer Science related!!
+- 👀 I’m interested in Databases, Cloud Computing and all things Computer Science related!!
 
 
 
